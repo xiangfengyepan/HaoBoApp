@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
-  <asmv1:assemblyIdentity name="HaoBo.exe" version="1.0.0.11" publicKeyToken="0000000000000000" language="neutral" processorArchitecture="msil" type="win32" />
+  <asmv1:assemblyIdentity name="HaoBo.exe" version="1.0.0.12" publicKeyToken="0000000000000000" language="neutral" processorArchitecture="msil" type="win32" />
   <application />
   <entryPoint>
     <assemblyIdentity name="Launcher" version="8.0.0.0" language="neutral" processorArchitecture="msil" />
@@ -89,22 +89,22 @@
       <dsig:DigestValue>U9RhGj02DL7Wd8TS/gwJs0la/mKh5xEcBk4jhGipsa8=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="HaoBo.dll" size="90112">
+  <file name="HaoBo.dll" size="95232">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>Yzdrc4I9Yhzsy3YDBn7I1cIAppFZF5jJIqJPwwkw45U=</dsig:DigestValue>
+      <dsig:DigestValue>WDNI2GqdBG3eQsZlWb+xRXhrLMCC/dw2PLPdZZ4qxZY=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="HaoBo.exe" size="150016">
+  <file name="HaoBo.exe" size="149504">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>K11fVc2UDdyNL3WV2P7UjKiMbS/pmlvx2sUg+UAKuNg=</dsig:DigestValue>
+      <dsig:DigestValue>jcQa4doxZ8RQIcePstJnFL8RtPbxsrszr+iYk7+07yo=</dsig:DigestValue>
     </hash>
   </file>
   <file name="HaoBo.runtimeconfig.json" size="515">
